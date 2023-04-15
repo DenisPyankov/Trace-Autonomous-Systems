@@ -79,7 +79,11 @@ C:\2023>python tas.py
 7               188.43.10.141           RU      AS20485 Joint Stock Company TransTeleCom
 
 8               108.170.250.66          RU      AS15169 Google LLC
+
 9               142.250.238.214         US      AS15169 Google LLC
+
 10              142.250.235.62          FI      AS15169 Google LLC
+
 11              142.250.56.217          FI      AS15169 Google LLC
+
 12              108.177.14.138          FI      AS15169 Google LLC
